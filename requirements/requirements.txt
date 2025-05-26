@@ -1,0 +1,11 @@
+Package	Version	Utilité Principale
+sentence-transformers	2.2.2	
+langchain	-	Framework pour chaînes de traitement NLP
+flask	-	Création d'API/web app
+pypdf	-	Extraction de texte depuis PDF
+python-dotenv	-	Gestion des variables d'environnement
+pinecone[grpc]	-	Base de données vectorielle (optimisé gRPC)
+langchain-pinecone	-	Intégration Pinecone dans LangChain
+langchain_community	-	Modules communautaires pour LangChain
+langchain_openai	-	Connecteurs OpenAI (GPT, etc.)
+langchain_experimental	-	Fonctionnalités expérimentales de LangChain
